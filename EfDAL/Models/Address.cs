@@ -10,5 +10,8 @@ namespace EfDAL.Models
         public string City { get; set; }
         public string State { get; set; }
         public string ZipCode { get; set; }
+        public int PersonId { get; set; }
+
+        public Person Person { get; set; }
     }
 }
