@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfDemoWeb", "EfDemoWeb\EfDemoWeb.csproj", "{AC3CF968-FE71-404D-A591-CD7D5C00FFFF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfDAL", "EfDAL\EfDAL.csproj", "{BDC4E730-1A19-4FDA-B126-EC3FC4E4CA38}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,17 @@ Global
 		{AC3CF968-FE71-404D-A591-CD7D5C00FFFF}.Release|x64.Build.0 = Release|Any CPU
 		{AC3CF968-FE71-404D-A591-CD7D5C00FFFF}.Release|x86.ActiveCfg = Release|Any CPU
 		{AC3CF968-FE71-404D-A591-CD7D5C00FFFF}.Release|x86.Build.0 = Release|Any CPU
+		{BDC4E730-1A19-4FDA-B126-EC3FC4E4CA38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC4E730-1A19-4FDA-B126-EC3FC4E4CA38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC4E730-1A19-4FDA-B126-EC3FC4E4CA38}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BDC4E730-1A19-4FDA-B126-EC3FC4E4CA38}.Debug|x64.Build.0 = Debug|Any CPU
+		{BDC4E730-1A19-4FDA-B126-EC3FC4E4CA38}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BDC4E730-1A19-4FDA-B126-EC3FC4E4CA38}.Debug|x86.Build.0 = Debug|Any CPU
+		{BDC4E730-1A19-4FDA-B126-EC3FC4E4CA38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC4E730-1A19-4FDA-B126-EC3FC4E4CA38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDC4E730-1A19-4FDA-B126-EC3FC4E4CA38}.Release|x64.ActiveCfg = Release|Any CPU
+		{BDC4E730-1A19-4FDA-B126-EC3FC4E4CA38}.Release|x64.Build.0 = Release|Any CPU
+		{BDC4E730-1A19-4FDA-B126-EC3FC4E4CA38}.Release|x86.ActiveCfg = Release|Any CPU
+		{BDC4E730-1A19-4FDA-B126-EC3FC4E4CA38}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
